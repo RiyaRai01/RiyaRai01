@@ -10,7 +10,7 @@
 
 <br/>
 
-**Prakhar Srivastava** &nbsp;·&nbsp; Cloud-Native Infrastructure · Platform Engineering · DevSecOps · AI Infrastructure
+**Riya Rai** &nbsp;·&nbsp; Cloud-Native Infrastructure · Platform Engineering · DevSecOps · AI Infrastructure
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Heyyprakhar1&color=0d9373&style=flat-square&label=profile+views)](https://github.com/Heyyprakhar1)
 &nbsp;
